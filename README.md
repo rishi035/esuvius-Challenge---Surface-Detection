@@ -1,2 +1,2 @@
-# esuvius-Challenge---Surface-Detection
+# Vesuvius-Challenge---Surface-Detection
 Kaggle Research competition 
